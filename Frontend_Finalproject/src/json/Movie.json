@@ -1,0 +1,74 @@
+{
+    "อีทานระเบิดปุ๊": {
+        "mov_img":
+"https://cdn.majorcineplex.com/uploads/movie/3535/thumb_3535.jpg?250420241025",
+        "schedules": {
+            "date": {
+                "2024-01-25": [
+                    "12:30:00",
+                    "15:30:00"
+                ]
+            }
+        }
+    },
+    "Biggy ชายผู้มีกล้ามเบิ้ม": {
+        "mov_img": "https://i.pinimg.com/736x/10/fb/c4/10fbc4a3e94c12b7391849a78a502a32.jpg",
+        "schedules": {
+            "date": {
+                "2024-01-25": [
+                    "08:30:00"
+                ]
+            }
+        }
+    },
+    "เขมือบพญามาร ฝ่ากระบี่ 1000 วิถี": {
+        "mov_img": "https://i.pinimg.com/736x/72/42/4c/72424c34aa297d47f630171695b09db7.jpg",
+        "schedules": {
+            "date": {
+                "2024-01-25": [
+                    "11:30:00"
+                ]
+            }
+        }
+    },
+    "หัวใจฉันอยู่ที่คุณ": {
+        "mov_img": "https://i.pinimg.com/474x/2c/26/d9/2c26d9ddf967c91468a318b4542ccc1d.jpg",
+        "schedules": {
+            "date": {
+                "2024-01-26": [
+                    "08:30:00"
+                ]
+            }
+        }
+    },
+    "ทองปลาดุกม้วน": {
+        "mov_img": "https://i.pinimg.com/736x/f3/fb/12/f3fb12e0f78f815b6957695457dd8fa3.jpg",
+        "schedules": {
+            "date": {
+                "2024-01-26": [
+                    "11:30:00"
+                ]
+            }
+        }
+    },
+    "Club Address thread": {
+        "mov_img": "https://i.pinimg.com/736x/72/42/4c/72424c34aa297d47f630171695b09db7.jpg",
+        "schedules": {
+            "date": {
+                "2024-01-26": [
+                    "17:30:00"
+                ]
+            }
+        }
+    },
+    "gigi delivery service": {
+        "mov_img": "https://www.austinfilm.org/wp-content/uploads/2019/10/Kikis-Delivery-Service-677x1024.jpg",
+        "schedules": {
+            "date": {
+                "2024-01-26": [
+                    "17:30:00"
+                ]
+            }
+        }
+    }
+}

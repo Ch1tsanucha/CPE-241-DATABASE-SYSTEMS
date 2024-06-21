@@ -1,0 +1,153 @@
+{
+    "Past Lives": {
+        "mov_img": "https://www.housesamyan.com/assets/uploads/movie/poster_web_path/20230623000340_F949A124-D1A1-4264-99E4-B1056875C35B.jpg",
+        "mov_price": 200,
+        "mov_date": "2024-03-10",
+        "mov_trailer": "https://youtu.be/kA244xewjcI",
+        "mov_des": "เมื่อ \"นายอง\"​ ได้ย้ายไปอยู่แคนาดาและเปลี่ยนชื่อเป็น \"นอร่า\" สิบสองปีต่อมา เธอได้พบกับ \"จองแฮซอง\" เด็กชายที่กลายเป็นชายหนุ่ม ในอดีตทั้งสองต่างตกหลุมรักกันและกัน แต่นายองในตอนนั้น กับนอร่าในตอนนี้ อาจไม่ใช่คนเดิม ...แล้วความรู้สึกของทั้งสองจะยังคงอยู่เหมือนเดิมหรือเปลี่ยนไป...",
+        "time_show": 104,
+        "schedules": {
+            "1": {
+                "2024-05-13": ["13:00:00", "14:00:00", "15:00:00", "16:00:00"],
+                "2024-05-14": ["13:00:00", "14:00:00", "15:00:00", "16:00:00"],
+                "2024-05-16": ["13:00:00", "14:00:00", "15:00:00", "16:00:00"]
+            }
+        }
+    },
+    "Challengers": {
+        "mov_img": "https://www.housesamyan.com/assets/uploads/movie/poster_web_path/20240412172230_77240806-6CE9-4C4F-92B3-BFDE9F849DFA.jpg",
+        "mov_price": 120,
+        "mov_date": "2024-03-17",
+        "mov_trailer": "https://youtu.be/PNxbWGBrHv0",
+        "mov_des": "Tashi, a former tennis prodigy turned coach is married to a champion on a losing streak. Her strategy for her husbands redemption takes a surprising turn when he must face off against his former best friend and Tashis former boyfriend.",
+        "time_show": 130,
+        "schedules": {
+            "2": {
+                "2024-05-13": ["13:00:00", "15:00:00", "17:00:00", "19:00:00"],
+                "2024-05-14": ["14:00:00", "16:00:00", "18:00:00", "20:00:00"],
+                "2024-05-15": ["13:00:00", "15:00:00", "17:00:00", "19:00:00"]
+            }
+        }
+    },
+    "I Miss You": {
+        "mov_img": "https://www.housesamyan.com/assets/uploads/movie/poster_web_path/20240423111224_57944E93-37CA-459C-83ED-34D97150C1B8.jpg",
+        "mov_price": 220,
+        "mov_date": "2024-03-28",
+        "mov_trailer": "https://youtu.be/XiaikR_Cpxs",
+        "mov_des": "CHINESE SOUNDTRACK (THAI & ENGLISH SUBTITLES) ในฤดูร้อนปี 2010 ไป๋เสี่ยวอวี่ (ถานเจี้ยนซื่อ Tan Jianci) และ หวังจินจิน (จางจิ้งอี๋ Zhang Jingyi) พบรักกันช่วงสอบเข้ามหาวิทยาลัย แต่ต้องจากลากันไปทั้งที่เขายังคงคิดถึงกันตลอด 4 ปีต่อมา ทั้งคู่กลับมาเจอกันอีกครั้งในช่วงสำเร็จการศึกษา หลังจากคบหากันมา 8 ปี รักกัน 5 ปี พวกเขาก็มาถึงทางแยกสำคัญในชีวิต เมื่อต้องเผชิญกับความจริงที่โหดร้าย",
+        "time_show": 113,
+        "schedules": {
+            "3": {
+                "2024-05-13": ["15:00:00", "16:00:00", "17:00:00", "18:00:00"],
+                "2024-05-15": ["15:00:00", "17:00:00", "18:00:00", "20:00:00"],
+                "2024-05-17": ["15:00:00", "17:00:00", "18:00:00", "20:00:00"]
+            }
+        }
+    },
+    "The Ministry of Ungentlemanly Warfare": {
+        "mov_img": "https://www.housesamyan.com/assets/uploads/movie/poster_web_path/20240429152606_B99B82E9-8BDE-4BF8-8C8A-FCB076C36644.jpg",
+        "mov_price": 100,
+        "mov_date": "2024-04-21",
+        "mov_trailer": "https://youtu.be/ML2LCewCM1s",
+        "mov_des": "ENGLISH with THAI SUBTITLES - กาย ริตชี สั่งลั่น! เชอร์ชิล สั่งลุย! ซัมเมอร์นี้ ยับกันไปข้าง",
+        "time_show": 120,
+        "schedules": {
+            "4": {
+                "2024-05-13": ["13:00:00", "14:00:00", "15:00:00"],
+                "2024-05-14": ["15:00:00", "16:00:00", "17:00:00"],
+                "2024-05-15": ["17:00:00", "18:00:00", "19:00:00"]
+            }
+        }
+    },
+    "Mallari": {
+        "mov_img": "https://www.housesamyan.com/assets/uploads/movie/poster_web_path/20240429153106_79CA771B-F5FD-4757-8EFB-CCDF7DB9268E.jpg",
+        "mov_price": 180,
+        "mov_date": "2024-04-21",
+        "mov_trailer": "https://youtu.be/Sk3GwC57vyw",
+        "mov_des": "TAGALOG with ENGLISH&THAI subtitles - ภาพยนตร์สยองขวัญของชาติฟิลิปปินส์เกี่ยวกับบาทหลวงผู้สังหารเหยื่อไปกว่า 57 รายในช่วงคริสต์ศตวรรษที่ 19 และกลายเป็นฆาตกรต่อเนื่องคนแรกในประวัติศาสตร์ของฟิลิปปินส์ที่ได้รับการบันทึกไว้นานกว่า 60 ปีก่อนแจ็คเดอะริปเปอร์",
+        "time_show": 130,
+        "schedules": {
+            "5": {
+                "2024-05-13": ["15:00:00", "16:00:00", "17:00:00"],
+                "2024-05-14": ["15:00:00", "16:00:00", "17:00:00"],
+                "2024-05-15": ["15:00:00", "16:00:00", "17:00:00"]
+            }
+        }
+    },
+    "The Fall Guy": {
+        "mov_img": "https://www.housesamyan.com/assets/uploads/movie/poster_web_path/20240412171420_654E9CCA-48B3-4919-9FBF-2FFE97D4B64F.jpg",
+        "mov_price": 180,
+        "mov_date": "2024-04-21",
+        "mov_trailer": "https://youtu.be/qm61LXN2uUw",
+        "mov_des": "A down-and-out stuntman must find the missing star of his ex-girlfriend's blockbuster film.",
+        "time_show": 130,
+        "schedules": {
+            "6": {
+                "2024-05-13": ["13:00:00", "14:00:00", "15:00:00"],
+                "2024-05-14": ["15:00:00", "16:00:00", "17:00:00"],
+                "2024-05-15": ["17:00:00", "18:00:00", "19:00:00"]
+            }
+        }
+    },
+    "April, Come She Will": {
+        "mov_img": "https://www.housesamyan.com/assets/uploads/movie/poster_web_path/20240207235623_D1FCF4B9-4C40-45DA-BCB9-7879EB02DC42.PNG",
+        "mov_price": 280,
+        "mov_date": "2024-05-01",
+        "mov_trailer": "https://youtu.be/QIDho6YfcvA",
+        "mov_des": "JAPANESE (TH & EN Subs) Shun Fujishiro (Takeru Satoh) is a psychiatrist and works at a university hospital in Tokyo. He is engaged to Yayoi Sakamoto (Masami Nagasawa). One day in April, when he is about to marry Yayoi Sakamoto, he receives a letter from his first love Haru Iyoda (Nana Mori). They dated 10 years ago. Suddenly, his fiancé Yayoi Sakamoto disappears.",
+        "time_show": 108,
+        "schedules": {
+            "7": {
+                "2024-05-13": ["13:00:00", "14:00:00", "15:00:00", "16:00:00"],
+                "2024-05-14": ["13:00:00", "14:00:00", "15:00:00", "16:00:00"],
+                "2024-05-15": ["13:00:00", "14:00:00", "15:00:00", "16:00:00"]
+            }
+        }
+    },
+    "Morrison": {
+        "mov_img": "https://www.housesamyan.com/assets/uploads/movie/poster_web_path/20240326104708_B11265A9-E88B-4423-8685-CBFEC661501F.jpg",
+        "mov_price": 220,
+        "mov_date": "2024-05-01",
+        "mov_trailer": "https://youtu.be/cYD9dd3wcdg",
+        "mov_des": "จิมมี่ อดีตศิลปินวัยสี่สิบปีที่ผันตัวมาเป็นวิศวกร ได้ถูกส่งตัวไปยังสถานที่ที่เขาเติบโตขึ้นมา เพื่อดูแลการรีโนเวทโรงแรมเก่าแห่งหนึ่ง เมื่อมาถึงแล้ว จิมมี่ ก็พอบว่า โรงแรมที่ในอดีตเคยรุ่งเรืองได้กลายมาเป็นสถานที่รกร้าง และในใจกลางสถานที่ลึกลับแห่งนี้เอง จิมมี่ ก็ได้ออกเดินทางไปในความฝันและจินตนาการ รวมไปถึงการย้อนรอยอดีตของครอบครัวของเขา",
+        "time_show": 106,
+        "schedules": {
+            "8": {
+                "2024-05-13": ["13:00:00", "15:00:00", "17:00:00", "19:00:00"],
+                "2024-05-14": ["14:00:00", "16:00:00", "18:00:00", "20:00:00"],
+                "2024-05-15": ["13:00:00", "15:00:00", "17:00:00"]
+            }
+        }
+    },
+    "Civil War": {
+        "mov_img": "https://www.housesamyan.com/assets/uploads/movie/poster_web_path/20240326105606_0F60068C-7D8F-40A0-AE0C-1EEDD7B268CC.jpg",
+        "mov_price": 120,
+        "mov_date": "2024-05-02",
+        "mov_trailer": "https://youtu.be/51icl511H5Q",
+        "mov_des": "เรื่องราวของกลุ่มของนักข่าวสงครามพยายามจะเอาชีวิตรอดไปพร้อมกับถ่ายทอดความจริงในภาวะสงครามกลางเมืองในสหรัฐอเมริกา",
+        "time_show": 109,
+        "schedules": {
+            "9": {
+                "2024-05-13": ["15:00:00", "16:00:00", "17:00:00", "18:00:00"],
+                "2024-05-15": ["15:00:00", "17:00:00", "18:00:00", "20:00:00"],
+                "2024-05-17": ["15:00:00", "17:00:00", "18:00:00", "20:00:00"]
+            }
+        }
+    },
+    "LAHNMAH": {
+        "mov_img": "https://www.housesamyan.com/assets/uploads/movie/poster_web_path/20240326104204_0A20DBB2-EC86-43C3-8245-7AD564B83740.jpg",
+        "mov_price": 120,
+        "mov_date": "2024-05-05",
+        "mov_trailer": "https://youtu.be/0fksoEJvdLE",
+        "mov_des": "TH (EN Subs) เมื่อหลานกับม่าที่อายุห่างกันกว่า 50 ปี ต้องมาอยู่ร่วมกัน การต่อปากต่อคําจึงเกิดขึ้นในทุกโมเมนต์ แต่มันกลับ เป็นช่วงเวลาที่ทําให้อาม่าลืมเหงา จากการเฝ้ารอลูกชายคนโตอย่าง กู๋เคี้ยง (ดู๋-สัญญา คุณากร) ลูกสาวคนกลาง อย่าง แม่ของเอ็ม (เจีย-สฤญรัตน์ โทมัส) และลูกชายคนเล็กอย่าง กู๋โส่ย (เผือก-พงศธร จงวิลาส) ที่จะมาพร้อมหน้ากันตามเทศกาลต่างๆ เท่านั้น ไม่น่าเชื่อว่างานที่เริ่มต้นทําเพราะหวังรวย จะทําให้คนห่วยๆ อย่างเอ็มได้รู้ว่า คําว่า “ครอบครัว” มีค่ามากกว่าเงิน",
+        "time_show": 125,
+        "schedules": {
+            "10": {
+                "2024-05-13": ["13:00:00", "14:00:00", "15:00:00"],
+                "2024-05-14": ["15:00:00", "16:00:00", "17:00:00"],
+                "2024-05-15": ["17:00:00", "18:00:00", "19:00:00"]
+            }
+        }
+    }
+}
+
